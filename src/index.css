@@ -48,6 +48,8 @@ body {
   text-align: center;
   font-size: 18px;
   font-family: "Nunito", sans-serif;
+  margin: 10px;
+
 }
 .input1 {
   display: flex;
